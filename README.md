@@ -1,0 +1,1 @@
+This line utilizes tuple packing and unpacking to simultaneously assign the value of b to a and the value of a to b. It's a concise and efficient way to swap variables without needing a temporary variable.
